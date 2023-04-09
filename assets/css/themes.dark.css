@@ -181,7 +181,7 @@ a .fa,
 
 .t-section__content,
 .t-section--header .t-section__header {
-	background: #2d2e2e;
+	background: none;
 }
 
 .t-section__content-border-color {
@@ -208,10 +208,10 @@ a .fa,
 	.t-section,
 	.t-section__header,
 	.t-section--header .t-section__header {
-		background: #2b2c2c;
+		background: none;
 	}
 	.t-section__content {
-		background: #2d2e2e;
+		background: none;
 	}
 	/* Even Sections */
 	.t-section:nth-child(even),
